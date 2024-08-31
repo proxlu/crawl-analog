@@ -5,7 +5,9 @@ Makes the W, A, S, and D keys simulate an analog stick in the game DCSS (Dungeon
 
 1. Clone this repository:
 
-```git clone https://github.com/proxlu/crawl-analog.git```
+```
+git clone https://github.com/proxlu/crawl-analog.git
+```
 
 3. Open the game, press **~** 2x, and remap **W**, **A**, **S**, and **D** keys to **]**: (This disables the default functions of these keys)
 
@@ -13,4 +15,6 @@ Makes the W, A, S, and D keys simulate an analog stick in the game DCSS (Dungeon
 
 3. Run **crawl-analog.py**:
 
-```python3 crawl-analog.py```
+```
+python3 crawl-analog.py
+```
